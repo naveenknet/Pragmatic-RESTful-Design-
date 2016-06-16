@@ -1,3 +1,5 @@
+Problem Statement : How to solve a problem when the same URI Resource is been consumed by different clients who would want custom RESTful Response
+
 For quite some time we have been hearing lot of  Partial Response and Partial Request for Resources, Lets try to understand the subtle notions.
 
 Partial Response is another way improve the performance of your API calls is by sending and receiving only the portion of the data that you're interested in. This lets your application avoid transferring, parsing, and storing unneeded fields, so it can use resources including network, CPU, and memory more efficiently.
